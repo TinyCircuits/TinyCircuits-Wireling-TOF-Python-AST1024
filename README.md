@@ -1,6 +1,6 @@
 # TinyCircuits Wireling Time-Of-Flight Distance Python AST1024
 
-This repository holds a python example meant for using a TinyCircuits [Time of Flight Distance Sensor Wireling](https://b4n60hdp1xad0uvz-11252198.shopifypreview.com/collections/wireling-sensors/products/tof-distance-sensor-wireling-vl53l0x) with a Raspberry Pi and Wireling Pi Hat.
+This repository holds a python example meant for using a TinyCircuits [Time of Flight Distance Sensor Wireling](https://tinycircuits.com/collections/wireling-sensors/products/tof-distance-sensor-wireling-vl53l0x) with a Raspberry Pi and Wireling Pi Hat.
 
 To install, use 
 
